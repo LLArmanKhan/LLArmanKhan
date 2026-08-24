@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hey, I'm Arman Khan
 
-<!--
-**LLArmanKhan/LLArmanKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Engineering Student @ DBIT Mumbai
 
-Here are some ideas to get you started:
+> 🧠 DSA & Java   |   ⚙️ Backend Developer   |   🚀 Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about **problem solving, backend development, and building real-world applications**.
+
+I have a strong foundation in **DSA & Java** and I'm currently strengthening my backend skills while learning the **MERN stack**.
+
+---
+
+## 🧠 What I Know
+
+| Area                         | Technologies                       |
+| ---------------------------- | ---------------------------------- |
+| 🧩 **DSA & Problem Solving** | Java, Data Structures & Algorithms |
+| ⚙️ **Backend**               | Node.js, Express.js, REST APIs     |
+| 🗄️ **Database**             | MongoDB, Mongoose                  |
+| 🔐 **Authentication**        | JWT, Cookies                       |
+| 🤖 **AI**                    | AI API Integration                 |
+| 🛠️ **Tools**                | Git, GitHub, Postman               |
+
+---
+
+## 🚀 Currently Building — PrepFlow
+
+**PrepFlow** is a preparation & productivity platform I'm building for students.
+
+### 🔥 Features
+
+* 🔐 Authentication & Authorization
+* 👤 User Profiles & Settings
+* 🎯 Goals & Progress Tracking
+* 💻 Competitive Programming Progress
+* 🤖 AI Assistant
+* 🗄️ MongoDB Database
+* 🔌 REST APIs
+
+I'm currently building the **backend** and learning the **MERN stack** to eventually turn PrepFlow into a complete full-stack application.
+
+---
+
+## 🌱 Currently Learning
+
+**MERN Stack**
+
+`HTML` → `CSS` → `React` → `Node.js` → `Express.js` → `MongoDB`
+
+Currently focused on learning **frontend development** and gradually expanding from backend into full-stack development.
+
+---
+
+## 🎯 Current Goals
+
+* 🧠 Get better at DSA & problem solving
+* ⚙️ Become stronger at backend development
+* 🚀 Build real-world projects
+* 🌐 Learn the MERN stack
+* 🤖 Explore AI-powered applications
+
+---
+
+## 📊 GitHub Stats
+
+![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LLArmanKhan\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLArmanKhan\&layout=compact\&theme=github_dark\&hide_border=true)
+
+---
+
+### 💻 Learn. Build. Debug. Improve. 🚀
