@@ -61,12 +61,5 @@ Currently focused on learning **Backend development** and gradually expanding fr
 
 ---
 
-## 📊 GitHub Stats
-
-![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LLArmanKhan\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLArmanKhan\&layout=compact\&theme=github_dark\&hide_border=true)
-
----
 
 ### 💻 Learn. Build. Debug. Improve. 🚀
