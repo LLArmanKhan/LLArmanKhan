@@ -45,9 +45,9 @@ I'm currently building the **backend** and learning the **MERN stack** to eventu
 
 **MERN Stack**
 
-`HTML` → `CSS` → `React` → `Node.js` → `Express.js` → `MongoDB`
+`Node.js` → `Express.js` → `MongoDB` →` HTML` → `CSS` → `React` →
 
-Currently focused on learning **frontend development** and gradually expanding from backend into full-stack development.
+Currently focused on learning **Backend development** and gradually expanding from backend into full-stack development.
 
 ---
 
