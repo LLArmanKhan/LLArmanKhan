@@ -2,7 +2,7 @@
 
 ### 💻 Computer Engineering Student @ DBIT Mumbai
 
-> 🧠 DSA & Java   |   ⚙️ Backend Developer   |   🚀 Builder
+> 🧠 DSA & Java   |  Computer Networks  |  Data Centres
 
 I'm passionate about **problem solving, backend development, and building real-world applications**.
 
