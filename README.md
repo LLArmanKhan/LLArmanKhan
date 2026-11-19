@@ -1,2 +1,2 @@
 Hey, I'm Arman Khan,
- Computer Engineering Student @ DBIT Mumbai
+Computer Engineering Student @ DBIT Mumbai
